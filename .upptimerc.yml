@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Banahosting.com** Uptime Monitoring"
-  introMessage: **real-time** status from [GitHub repository](https://manage.banahosting.com/aff.php?aff=2631). No server required. [**More info here**](https://manage.banahosting.com/aff.php?aff=2631)
+  introMessage: "**real-time** status from [GitHub repository](https://manage.banahosting.com/aff.php?aff=2631). No server required. [**More info here**](https://manage.banahosting.com/aff.php?aff=2631)"
   navbar:
     - title: Status
       href: /
