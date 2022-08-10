@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 35,
-    "timeWeek": 66,
-    "timeMonth": 70,
-    "timeYear": 67,
+    "time": 68,
+    "timeDay": 83,
+    "timeWeek": 70,
+    "timeMonth": 72,
+    "timeYear": 68,
     "dailyMinutesDown": {
       "2022-02-04": 1,
       "2022-02-03": 4
@@ -25,17 +25,19 @@
     "url": "https://ovh.es",
     "icon": "https://favicons.githubusercontent.com/ovh.es",
     "slug": "ovh-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1415,
-    "timeDay": 1864,
-    "timeWeek": 1620,
-    "timeMonth": 1544,
-    "timeYear": 1415,
-    "dailyMinutesDown": {}
+    "time": 1417,
+    "timeDay": 1750,
+    "timeWeek": 1734,
+    "timeMonth": 1545,
+    "timeYear": 1417,
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   }
 ]
