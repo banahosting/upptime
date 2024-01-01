@@ -37,9 +37,9 @@
     "slug": "ovh-es",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1552,
     "timeDay": 3888,
@@ -47,7 +47,6 @@
     "timeMonth": 2258,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2023-12-31": 9,
       "2023-10-21": 359
     }
   }
