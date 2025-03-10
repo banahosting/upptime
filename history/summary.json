@@ -4,16 +4,16 @@
     "url": "https://banahosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/banahosting.com.ico",
     "slug": "banahosting",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "31.52%",
-    "uptimeWeek": "34.08%",
-    "uptimeMonth": "84.83%",
-    "uptimeYear": "98.74%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "35.30%",
+    "uptimeWeek": "35.15%",
+    "uptimeMonth": "85.08%",
+    "uptimeYear": "98.76%",
     "time": 97,
-    "timeDay": 91,
+    "timeDay": 90,
     "timeWeek": 111,
-    "timeMonth": 101,
+    "timeMonth": 100,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2025-03-10": 203,
@@ -23,7 +23,7 @@
       "2025-03-06": 773,
       "2025-03-05": 979,
       "2025-03-04": 1092,
-      "2025-03-03": 427
+      "2025-03-03": 320
     }
   },
   {
