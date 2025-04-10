@@ -6,17 +6,17 @@
     "slug": "banahosting",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "99.27%",
     "time": 93,
     "timeDay": 92,
-    "timeWeek": 102,
+    "timeWeek": 101,
     "timeMonth": 95,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-04-09": 134,
+      "2025-04-09": 124,
       "2025-04-08": 156,
       "2025-04-07": 202,
       "2025-04-06": 43,
@@ -28,7 +28,8 @@
       "2025-03-31": 526,
       "2025-03-30": 583,
       "2025-03-29": 758,
-      "2025-03-28": 562
+      "2025-03-28": 562,
+      "2025-03-27": 31
     }
   },
   {
@@ -44,7 +45,7 @@
     "uptimeYear": "99.81%",
     "time": 1510,
     "timeDay": 725,
-    "timeWeek": 1152,
+    "timeWeek": 1159,
     "timeMonth": 1468,
     "timeYear": 1468,
     "dailyMinutesDown": {
