@@ -1,5 +1,5 @@
 # [📈 Live Status](https://banahosting.github.io/upptime): <!--live status--> **🟧 Partial outage**
-[Bana neti]([https://github.com/upptime/upptime](https://nettikasinot.casino/go/bana)).
+[Bananeti](https://nettikasinot.casino/go/bana).
 
 
 This repository contains the open-source uptime monitor and status page for [banahosting](https://banahosting.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
