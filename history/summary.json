@@ -323,13 +323,13 @@
     "url": "https://ovh.es",
     "icon": "https://icons.duckduckgo.com/ip3/ovh.es.ico",
     "slug": "ovh-es",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "82.27%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "82.26%",
     "uptimeWeek": "96.19%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "98.90%",
-    "time": 1394,
+    "time": 1395,
     "timeDay": 845,
     "timeWeek": 864,
     "timeMonth": 1037,
@@ -382,7 +382,8 @@
       "2026-06-22": 56,
       "2026-06-29": 74,
       "2026-07-03": 129,
-      "2026-07-09": 255
+      "2026-07-09": 255,
+      "2026-07-10": 0
     }
   }
 ]
