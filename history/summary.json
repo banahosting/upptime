@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/banahosting.com.ico",
     "slug": "banahosting",
     "status": "up",
-    "uptime": "82.31%",
+    "uptime": "82.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.61%",
+    "uptimeYear": "49.65%",
     "time": 149,
     "timeDay": 300,
     "timeWeek": 279,
@@ -207,9 +207,9 @@
     "url": "https://ovh.es",
     "icon": "https://icons.duckduckgo.com/ip3/ovh.es.ico",
     "slug": "ovh-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.72%",
@@ -262,7 +262,8 @@
       "2026-09-08": 589,
       "2026-09-09": 31,
       "2026-10-08": 154,
-      "2026-10-07": 39
+      "2026-10-07": 39,
+      "2026-11-03": 0
     }
   }
 ]
