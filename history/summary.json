@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.17%",
+    "uptimeYear": "53.34%",
     "time": 152,
     "timeDay": 291,
     "timeWeek": 258,
@@ -194,17 +194,17 @@
     "url": "https://ovh.es",
     "icon": "https://icons.duckduckgo.com/ip3/ovh.es.ico",
     "slug": "ovh-es",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "23.08%",
-    "uptimeWeek": "86.87%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "98.41%",
-    "time": 1300,
-    "timeDay": 1324,
-    "timeWeek": 1082,
-    "timeMonth": 1056,
-    "timeYear": 1225,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "78.03%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "98.24%",
+    "time": 1297,
+    "timeDay": 712,
+    "timeWeek": 1029,
+    "timeMonth": 1046,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2025-11-17": 55,
       "2025-11-26": 62,
@@ -250,7 +250,7 @@
       "2026-10-07": 39,
       "2026-11-03": 455,
       "2026-11-15": 963,
-      "2026-11-16": 361
+      "2026-11-16": 1253
     }
   }
 ]
