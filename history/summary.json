@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/banahosting.com.ico",
     "slug": "banahosting",
     "status": "up",
-    "uptime": "82.44%",
+    "uptime": "82.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.05%",
+    "uptimeYear": "53.17%",
     "time": 152,
-    "timeDay": 100,
-    "timeWeek": 252,
-    "timeMonth": 257,
-    "timeYear": 164,
+    "timeDay": 291,
+    "timeWeek": 258,
+    "timeMonth": 254,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -186,8 +186,7 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
-      "2025-11-16": 1440
+      "2025-11-17": 1440
     }
   },
   {
@@ -196,16 +195,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ovh.es.ico",
     "slug": "ovh-es",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "50.50%",
-    "uptimeWeek": "92.93%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "98.52%",
+    "uptime": "99.62%",
+    "uptimeDay": "23.08%",
+    "uptimeWeek": "86.87%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "98.41%",
     "time": 1300,
     "timeDay": 1324,
-    "timeWeek": 1146,
-    "timeMonth": 1063,
-    "timeYear": 1224,
+    "timeWeek": 1082,
+    "timeMonth": 1056,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-11-17": 55,
       "2025-11-26": 62,
@@ -250,7 +249,8 @@
       "2026-10-08": 154,
       "2026-10-07": 39,
       "2026-11-03": 455,
-      "2026-11-15": 713
+      "2026-11-15": 963,
+      "2026-11-16": 361
     }
   }
 ]
