@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/banahosting.com.ico",
     "slug": "banahosting",
     "status": "up",
-    "uptime": "82.53%",
+    "uptime": "82.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.40%",
+    "uptimeYear": "55.66%",
     "time": 154,
-    "timeDay": 216,
-    "timeWeek": 208,
-    "timeMonth": 237,
+    "timeDay": 87,
+    "timeWeek": 188,
+    "timeMonth": 233,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2026-05-06": 283,
@@ -177,8 +177,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -192,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.90%",
     "uptimeYear": "98.25%",
-    "time": 1284,
-    "timeDay": 799,
-    "timeWeek": 845,
-    "timeMonth": 1006,
-    "timeYear": 1212,
+    "time": 1282,
+    "timeDay": 465,
+    "timeWeek": 774,
+    "timeMonth": 965,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-11-26": 62,
       "2025-12-01": 52,
